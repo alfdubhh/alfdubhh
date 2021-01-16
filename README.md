@@ -1,4 +1,4 @@
-### Hi there, i'm Alfie - AKA [alfdubhh] (https://github.com/alfdubhh)
+### Hi there, i'm Alfie - AKA alfdubhh
 
 # Key List
 
@@ -13,3 +13,5 @@
 * I'm smart - ❌
 * I'm all ways on Github - ✔
 * I'm epic - ✔ and ❌
+
+
